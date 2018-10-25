@@ -12,6 +12,7 @@ public class Democonstructor {
 		
 		if(storeAddition >= 20) { 
 			System.out.println(f4.add(storeAddition, storeAddition));
+			
 		}
 	}
 
